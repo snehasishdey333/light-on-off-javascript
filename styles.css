@@ -1,0 +1,36 @@
+body{
+    display: felx;
+   
+    background-color: #1F4690;
+}
+h1{
+    color: #E8AA42;
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Anton', sans-serif;
+}
+button{
+    margin: 30px 20px;
+    box-shadow: 2px 4px #FFE5B4;
+    font-weight: bold;
+    padding: 15px 32px;
+    color: #1F4690;
+    background-color: #E8AA42;
+    font-size: 32px;
+    font-family: 'PT Sans Narrow', sans-serif;
+    border-radius: 5px;
+}
+img{
+    display: block;
+    margin: auto ;
+    width: 50%;
+    margin: auto;
+    height: 250px;
+    width: 250px;
+}
+
+.inner-div{
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
